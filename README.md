@@ -1,3 +1,3 @@
-# TaskFlow
+## User Registration
 
-A simple project management SaaS for learning GitHub Projects and Scrum.
+This feature allows users to create an account using their email and password.
